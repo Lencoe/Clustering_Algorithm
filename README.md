@@ -6,8 +6,7 @@ use any IDE you want. can use jupyter notebook or IDLE
 
 #K-Means clustering implementation
 
-#Some hints on how to start, as well as guidance on things which may trip you up, have been added to this file.
-#You will have to add more code that just the hints provided here for the full implementation.
+
 #You will also have to import relevant libraries for graph plotting and maths functions.
 
 # ====
